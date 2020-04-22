@@ -1,11 +1,11 @@
 # Site settings
 author: Blend Ibraj
-title: 
+title: Blend's Blog
 header-img: img/home-bg.png
 email: blendi.ibraj96@gmail.com
 copyright_name: Blend Ibraj
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A beginner's path to programming
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Bibraj96
