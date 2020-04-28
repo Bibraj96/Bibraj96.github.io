@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "CLI Data Gem: Glitchwave's Best Open World Games"
-date:       2020-04-27 18:23:46 +0000
+date:       2020-04-27 14:23:47 -0400
 permalink:  cli_data_gem_glitchwaves_best_open_world_games
 ---
 
 
-For so many around the world, the COVID-19 pandemic has altered normal daily life. Among these changes, exploration has been halted entirely. To remedy this, one might turn to the great expanse that is an open world video game. However, video games are quite expensive nowadays. Sifting through the countless games in this genre to pick one that is worth the money can prove difficult For my first project, I built a CLI data gem that scrapes the top 40 open world games from [](https://glitchwave.com/), an online collaborative metadata database of video games, and returns its release year, total number of ratings, and numerical rating out of five.
+For so many around the world, the COVID-19 pandemic has altered normal daily life. Among these changes, exploration has been halted entirely. To remedy this, one might turn to the great expanse that is an open world video game. However, video games are quite expensive nowadays. Sifting through the countless games in this genre to pick one that is worth the money can prove difficult. For my first project, I built a CLI data gem that scrapes the top 40 open world games from [](https://glitchwave.com/), an online collaborative metadata database of video games, and returns its release year, total number of ratings, and numerical rating out of five.
 
 ![](https://i.imgur.com/xVQctng.png)
 
