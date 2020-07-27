@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Nested Forms in Rails"
-date:       2020-07-27 18:11:12 +0000
+date:       2020-07-27 14:11:14 -0400
 permalink:  nested_forms_in_rails
 ---
 
@@ -27,8 +27,8 @@ In my app, a nested form allows a user to create a `Game` and its associated `Ge
       <%= genre.label :name %>
       <%= genre.text_field :name, class: "form-control" %>
     </div>
-  <% end %>
-	```
+<% end %>
+```
 	
 With this form, I give the user an option to select an existing genre to associate with the game or create a new one. The `<%= fields_for %>` block renders a field for the nested attribute we want to associate. Here, it's the genre's name. Next up, I need to go to the `games_controller`.
 	
@@ -39,7 +39,7 @@ def new
 end
 ```
 
-This `new` action builds a field in the form to accept a new genre.
+This action builds a field in the form to accept a new genre.
 
 ```
 private
