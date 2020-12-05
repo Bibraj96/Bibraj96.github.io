@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Next Steps (Plus Helpful Links!)"
+title:      "Next Steps and Helpful Links!"
 date:       2020-12-05 15:44:57 -0500
 permalink:  next_steps
 ---
