@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Next Steps"
-date:       2020-12-05 20:44:57 +0000
+title:      "Next Steps (Plus Helpful Links!)"
+date:       2020-12-05 15:44:57 -0500
 permalink:  next_steps
 ---
 
