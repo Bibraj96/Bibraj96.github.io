@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "JavaScript: Fetch DELETE"
-date:       2020-09-25 15:14:56 +0000
+date:       2020-09-25 11:14:57 -0400
 permalink:  javascript_fetch_delete
 ---
 
 
-For my JavaScript portfolio project I made a single-page application(SPA) that lets users post animal sightings at a zoo of his/her/their choice. As far as database relationships go, a Zoo has many Sightings and a Sighting belongs to a Zoo. If a desired zoo isn't found, one can be added so that everyone else can add sightings to it as well. Bootstrap was used to style the SPA.
+For my JavaScript portfolio project I made a single-page application(SPA) that lets users post animal sightings at a zoo of his/her choice. As far as database relationships go, a Zoo has many Sightings and a Sighting belongs to a Zoo. If a desired zoo isn't found, one can be added so that everyone else can add sightings to it as well. Bootstrap was used to style the SPA.
 
 When I first started implementing the fetch requests, things went quite smoothly. This was because I was simply retrieving all of the zoos using the `http://localhost:3000/zoos` URL from my Rails API, so I didn't need to dynamically add an `id` to the URL. However when it came time to delete a zoo, I realized that my DOM needed better structuring so that I could manipulate it properly.
 
